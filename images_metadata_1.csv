@@ -1,0 +1,106 @@
+image_id,file_name,item_id,item_name,material,hue,top_cap,label,contaminates,deformation
+IMG_001,20261104_180503.jpg,OBJ_047,loveis коробка,FE,Orange,Yes,Yes,No-N/a,No-N/a
+IMG_002,20261104_180458.jpg,OBJ_047,loveis коробка,FE,Orange,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_003,20261104_180258.jpg,OBJ_046,tashe маска,Plastic + Al (C/PE),Other,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_004,20261104_180139.jpg,OBJ_045,mixit,PET,Yellow,No-N/a,No-N/a,Yes,No-N/a
+IMG_005,20261104_180133.jpg,OBJ_045,mixit,PET,Yellow,Yes,Yes,Yes,No-N/a
+IMG_006,20261104_180031.jpg,OBJ_044,крем для рук Фаберлик,LDPE,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_007,20261104_180023.jpg,OBJ_044,крем для рук Фаберлик,LDPE,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_008,20261104_175926.jpg,OBJ_043,клей-карандаш,PP,White,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_009,20261104_175912.jpg,OBJ_043,клей-карандаш,PP,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_010,20261104_175905.jpg,OBJ_043,клей-карандаш,PP,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_011,20261104_173644.jpg,OBJ_042,бумага,Paper (PAP),White,No-N/a,No-N/a,No-N/a,Yes
+IMG_012,20261104_173610.jpg,OBJ_041,картон,Cardboard (PAP),Brown,No-N/a,No-N/a,No-N/a,Yes
+IMG_013,20261104_173605.jpg,OBJ_041,картон,Cardboard (PAP),Brown,No-N/a,No-N/a,No-N/a,Yes
+IMG_014,20261104_173539.jpg,OBJ_041,картон,Cardboard (PAP),Brown,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_015,20261104_173534.jpg,OBJ_041,картон,Cardboard (PAP),Brown,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_016,20261104_173121.jpg,OBJ_040,значок,FE,Gray,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_017,20261104_173007.jpg,OBJ_039,упаковка яиц,Paper (PAP),Gray,Yes,Yes,No-N/a,No-N/a
+IMG_018,20261104_172952.jpg,OBJ_039,упаковка яиц,Paper (PAP),Gray,Yes,No-N/a,No-N/a,No-N/a
+IMG_019,20261104_172947.jpg,OBJ_039,упаковка яиц,Paper (PAP),Gray,Yes,No-N/a,No-N/a,No-N/a
+IMG_020,20261104_172938.jpg,OBJ_039,упаковка яиц,Paper (PAP),Gray,Yes,No-N/a,No-N/a,No-N/a
+IMG_021,20261104_172931.jpg,OBJ_039,упаковка яиц,Paper (PAP),Gray,Yes,Yes,No-N/a,No-N/a
+IMG_022,20261104_172847.jpg,OBJ_038,nivea крем,ALU,Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_023,20261104_172837.jpg,OBJ_038,nivea крем,ALU,Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_024,20261104_172239.jpg,OBJ_037,маска для лица,Plastic + Al (C/PE),Black,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_025,20261104_172235.jpg,OBJ_037,маска для лица,Plastic + Al (C/PE),Black,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_026,20261104_171932.jpg,OBJ_036,Накипин,HDPE,Yellow,Yes,Yes,No-N/a,No-N/a
+IMG_027,20261104_171927.jpg,OBJ_036,Накипин,HDPE,Yellow,Yes,Yes,No-N/a,No-N/a
+IMG_028,20261104_171832.jpg,OBJ_035,средство для посуды,PET,Orange,Yes,Yes,No-N/a,No-N/a
+IMG_029,20261104_171825.jpg,OBJ_035,средство для посуды,PET,Orange,Yes,Yes,No-N/a,No-N/a
+IMG_030,20261104_171723.jpg,OBJ_034,кофе,Plastic + Al (C/PE),Brown,No-N/a,Yes,No-N/a,No-N/a
+IMG_031,20261104_171719.jpg,OBJ_034,кофе,Plastic + Al (C/PE),Brown,No-N/a,Yes,No-N/a,No-N/a
+IMG_032,20261104_171629.jpg,OBJ_033,банка чая сердце,FE,Pink,Yes,No-N/a,No-N/a,No-N/a
+IMG_033,20261104_171624.jpg,OBJ_033,банка чая сердце,FE,Pink,Yes,Yes,No-N/a,No-N/a
+IMG_034,20261104_171434.jpg,OBJ_032,банка чая тигр,FE,Yellow,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_035,20261104_171409.jpg,OBJ_032,банка чая тигр,FE,Other,Yes,No-N/a,No-N/a,No-N/a
+IMG_036,20261104_171403.jpg,OBJ_032,банка чая тигр,FE,Other,Yes,No-N/a,No-N/a,No-N/a
+IMG_037,20261104_171346.jpg,OBJ_032,банка чая тигр,FE,Other,Yes,Yes,No-N/a,No-N/a
+IMG_038,20261104_171302.jpg,OBJ_031,банка чая голубая,FE,Light Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_039,20261104_171255.jpg,OBJ_031,банка чая голубая,FE,Light Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_040,20261104_171248.jpg,OBJ_031,банка чая голубая,FE,Gray,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_041,20261104_171202.jpg,OBJ_030,бутылка компота,Clear Glass (GL),Clear,No-N/a,Yes,No-N/a,No-N/a
+IMG_042,20261104_171153.jpg,OBJ_030,бутылка компота,Clear Glass (GL),Clear,No-N/a,Yes,No-N/a,No-N/a
+IMG_043,20261104_171040.jpg,OBJ_029,perva fitness консерва,FE,Other,Yes,No-N/a,No-N/a,No-N/a
+IMG_044,20261104_171035.jpg,OBJ_029,perva fitness консерва,FE,Other,Yes,No-N/a,No-N/a,No-N/a
+IMG_045,20261104_171028.jpg,OBJ_029,perva fitness консерва,FE,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_046,20261104_170815.jpg,OBJ_028,batisle сухой шампунь,FE,Green,Yes,No-N/a,No-N/a,No-N/a
+IMG_047,20261104_170808.jpg,OBJ_028,batisle сухой шампунь,FE,Gray,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_048,20261104_170800.jpg,OBJ_028,batisle сухой шампунь,FE,Green,Yes,Yes,No-N/a,No-N/a
+IMG_049,20261104_170655.jpg,OBJ_027,7 days сухой шампунь,ALU,Pink,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_050,20261104_170633.jpg,OBJ_027,7 days сухой шампунь,ALU,Pink,Yes,No-N/a,No-N/a,No-N/a
+IMG_051,20261104_170429.jpg,OBJ_026,snaqfer трубочки,Paperboard (PAP),Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_052,20261104_170420.jpg,OBJ_026,snaqfer трубочки,Paperboard (PAP),Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_053,20261104_170315.jpg,OBJ_025,Phoenix пиво,Green Glass (GL),Black,Yes,Yes,Yes,No-N/a
+IMG_054,20261104_170303.jpg,OBJ_025,Phoenix пиво,Green Glass (GL),Black,Yes,Yes,Yes,No-N/a
+IMG_055,20261104_170127.jpg,OBJ_024,IJEVAN вино,Brown Glass (GL),Black,Yes,Yes,Yes,No-N/a
+IMG_056,20261104_170117.jpg,OBJ_024,IJEVAN вино,Brown Glass (GL),Black,Yes,Yes,Yes,No-N/a
+IMG_057,20261104_165847.jpg,OBJ_023,кератиновый спрей,Other,Purple,Yes,No-N/a,No-N/a,No-N/a
+IMG_058,20261104_165836.jpg,OBJ_023,кератиновый спрей,Other,Purple,Yes,No-N/a,No-N/a,No-N/a
+IMG_059,20261104_165751.jpg,OBJ_022,крем geltek,LDPE,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_060,20261104_165746.jpg,OBJ_022,крем geltek,LDPE,White,Yes,No-N/a,No-N/a,No-N/a
+IMG_061,20261104_165700.jpg,OBJ_020,банка поменьше,Clear Glass (GL),Clear,Yes,No-N/a,No-N/a,No-N/a
+IMG_062,20261104_165638.jpg,OBJ_020,банка поменьше,Clear Glass (GL),Clear,Yes,No-N/a,Yes,No-N/a
+IMG_063,20261104_165615.jpg,OBJ_021,банка побольше,Clear Glass (GL),Clear,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_064,20261104_165551.jpg,OBJ_021,банка побольше,Clear Glass (GL),Clear,Yes,No-N/a,No-N/a,No-N/a
+IMG_065,20261104_165436.jpg,OBJ_019,пакетик чая Ричард,Paper + Plastic + Al (C/PAP),Blue,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_066,20261104_165329.jpg,OBJ_018,чай Ричард,Paperboard (PAP),Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_067,20261104_165313.jpg,OBJ_018,чай Ричард,Paperboard (PAP),Blue,Yes,No-N/a,No-N/a,No-N/a
+IMG_068,20261104_165103.jpg,OBJ_017,Heinz кетчуп,Plastic + Al (C/PE),Red,Yes,No-N/a,Yes,No-N/a
+IMG_069,20261104_164933.jpg,OBJ_016,мука пшеничная,Paper (PAP),Other,No-N/a,No-N/a,Yes,Yes
+IMG_070,20261104_164917.jpg,OBJ_016,мука пшеничная,Paper (PAP),Other,No-N/a,No-N/a,Yes,Yes
+IMG_071,20261104_164751.jpg,OBJ_015,контейнер квадратный,PP,Clear,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_072,20261104_164742.jpg,OBJ_015,контейнер квадратный,PP,Clear,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_073,20261104_164608.jpg,OBJ_013,крышка контейнера голубая,PP,Light Blue,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_074,20261104_164555.jpg,OBJ_014,крышка бордовая,LDPE,Red,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_075,20261104_164549.jpg,OBJ_014,крышка бордовая,LDPE,Red,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_076,20261104_164437.jpg,OBJ_050,крышка контейнера прозрачная,PP,Clear,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_077,20261104_164429.jpg,OBJ_012,прозрачный круглый контейнер,PP,Clear,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_078,20261104_164417.jpg,OBJ_012,прозрачный круглый контейнер,PP,Clear,Yes,No-N/a,No-N/a,No-N/a
+IMG_079,20261104_164412.jpg,OBJ_012,прозрачный круглый контейнер,PP,Clear,Yes,No-N/a,No-N/a,No-N/a
+IMG_080,20261104_164259.jpg,OBJ_011,sensoy нори,Plastic + Al (C/PE),Black,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_081,20261104_164253.jpg,OBJ_011,sensoy нори,Plastic + Al (C/PE),Other,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_082,20261104_164104.jpg,OBJ_010,GRANI,Paperboard (PAP),Green,Yes,No-N/a,No-N/a,No-N/a
+IMG_083,20261104_164058.jpg,OBJ_010,GRANI,Paperboard (PAP),Green,Yes,No-N/a,No-N/a,No-N/a
+IMG_084,20261104_163911.jpg,OBJ_009,домшим соус,Clear Glass (GL),Black,Yes,Yes,Yes,No-N/a
+IMG_085,20261104_163903.jpg,OBJ_009,домшим соус,Clear Glass (GL),Black,Yes,Yes,Yes,No-N/a
+IMG_086,20261104_163727.jpg,OBJ_008,стевия вкус и польза,Other,White,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_087,20261104_163719.jpg,OBJ_008,стевия вкус и польза,Other,White,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_088,20261104_163609.jpg,OBJ_007,спички красная цена,Paperboard (PAP),Other,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_089,20261104_163441.jpg,OBJ_006,хрутка какао,HDPE,Yellow,Yes,Yes,No-N/a,No-N/a
+IMG_090,20261104_163433.jpg,OBJ_006,хрутка какао,HDPE,Yellow,Yes,Yes,No-N/a,No-N/a
+IMG_091,20261104_161846.jpg,OBJ_005,крышка красная,HDPE,Red,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_092,20261104_161713.jpg,OBJ_004,молоко домик в деревне,PET,White,Yes,Yes,Yes,No-N/a
+IMG_093,20261104_161650.jpg,OBJ_004,молоко домик в деревне,PET,White,Yes,Yes,Yes,No-N/a
+IMG_094,20261104_161542.jpg,OBJ_003,крышка голубая,HDPE,Light Blue,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_095,20261104_161525.jpg,OBJ_051,святой источник 0.33л,PET,Clear,Yes,Yes,No-N/a,No-N/a
+IMG_096,20261104_161319.jpg,OBJ_051,святой источник 0.33л,PET,Clear,No-N/a,Yes,No-N/a,No-N/a
+IMG_097,20261104_160905.jpg,OBJ_002,святой источник вода 1л,PET,Clear,No-N/a,Yes,No-N/a,No-N/a
+IMG_098,20261104_160854.jpg,OBJ_002,святой источник вода 1л,PET,Clear,No-N/a,Yes,No-N/a,No-N/a
+IMG_099,20261104_160740.jpg,OBJ_001,Lipton черный чай,PET,Clear,Yes,No-N/a,Yes,Yes
+IMG_100,20261104_160049.jpg,OBJ_001,Lipton черный чай,PET,Clear,No-N/a,No-N/a,Yes,No-N/a
+IMG_101,20261104_155955.jpg,OBJ_001,Lipton черный чай,PET,Clear,No-N/a,Yes,Yes,No-N/a
+IMG_102,20261104_155903.jpg,OBJ_001,Lipton черный чай,PET,Clear,Yes,Yes,Yes,No-N/a
+IMG_103,20261104_180845.jpg,OBJ_049,коробка русалочка,ALU,Purple,Yes,Yes,No-N/a,No-N/a
+IMG_104,20261104_180837.jpg,OBJ_049,коробка русалочка,ALU,Purple,Yes,No-N/a,No-N/a,No-N/a
+IMG_105,20261104_180740.jpg,OBJ_048,пластиковое открывающееся яйцо,PP,Yellow,Yes,No-N/a,No-N/a,No-N/a
