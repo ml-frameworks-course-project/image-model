@@ -1,0 +1,1388 @@
+[
+  {
+    "name": "PET",
+    "id": 1,
+    "color": "#33ddff",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 2,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 3,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 4,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 5,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "HDPE",
+    "id": 2,
+    "color": "#fa3253",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 6,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 7,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 8,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 9,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 10,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "LDPE",
+    "id": 3,
+    "color": "#ff6037",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 11,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 12,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 13,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 14,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 15,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "PP",
+    "id": 4,
+    "color": "#ddff33",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 16,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 17,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 18,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 19,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 20,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "PS",
+    "id": 5,
+    "color": "#b83df5",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 21,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 22,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 23,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 24,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 25,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "PVC",
+    "id": 6,
+    "color": "#32b7fa",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 26,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 27,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 28,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 29,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 30,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "id": 7,
+    "color": "#ffcc33",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 31,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 32,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 33,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 34,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 35,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "ALU",
+    "id": 8,
+    "color": "#969696",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 36,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 37,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 38,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 39,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 40,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "FE",
+    "id": 9,
+    "color": "#3a3a3a",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 41,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 42,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 43,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 44,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 45,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Clear Glass (GL)",
+    "id": 10,
+    "color": "#e660a2",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 46,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 47,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 48,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 49,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 50,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Brown Glass (GL)",
+    "id": 11,
+    "color": "#ff355e",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 51,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 52,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 53,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 54,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 55,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Green Glass (GL)",
+    "id": 12,
+    "color": "#f39dc9",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 56,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 57,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 58,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 59,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 60,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Paper (PAP)",
+    "id": 13,
+    "color": "#aaf0d1",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 61,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 62,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 63,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 64,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 65,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Paperboard (PAP)",
+    "id": 14,
+    "color": "#8c78f0",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 66,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 67,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 68,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 69,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 70,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Cardboard (PAP)",
+    "id": 15,
+    "color": "#f59331",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 71,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 72,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 73,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 74,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 75,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Paper + Plastic (C/PAP)",
+    "id": 16,
+    "color": "#fafa37",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 76,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 77,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 78,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 79,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 80,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Paper + Plastic + Al (C/PAP)",
+    "id": 17,
+    "color": "#3df53d",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 81,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 82,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 83,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 84,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 85,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  },
+  {
+    "name": "Plastic + Al (C/PE)",
+    "id": 18,
+    "color": "#733380",
+    "type": "rectangle",
+    "attributes": [
+      {
+        "id": 86,
+        "name": "Hue",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Other",
+          "Clear",
+          "White",
+          "Brown",
+          "Opaque",
+          "Blue",
+          "Gray",
+          "Light Blue",
+          "Yellow",
+          "Green",
+          "Light Green",
+          "Black",
+          "Pink",
+          "Purple",
+          "Red",
+          "Orange"
+        ],
+        "default_value": "Other"
+      },
+      {
+        "id": 87,
+        "name": "Top/Cap",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 88,
+        "name": "Label",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 89,
+        "name": "Contaminates",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      },
+      {
+        "id": 90,
+        "name": "Deformation",
+        "input_type": "select",
+        "mutable": true,
+        "values": [
+          "Yes",
+          "No-N/a"
+        ],
+        "default_value": "No-N/a"
+      }
+    ]
+  }
+]
