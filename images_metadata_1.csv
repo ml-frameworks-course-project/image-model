@@ -1,7 +1,7 @@
 image_id,file_name,item_id,item_name,material,hue,top_cap,label,contaminates,deformation
-IMG_001,20261104_180503.jpg,OBJ_047,loveis коробка,FE,Orange,Yes,Yes,No-N/a,No-N/a
-IMG_002,20261104_180458.jpg,OBJ_047,loveis коробка,FE,Orange,No-N/a,No-N/a,No-N/a,No-N/a
-IMG_003,20261104_180258.jpg,OBJ_046,tashe маска,Plastic + Al (C/PE),Other,No-N/a,No-N/a,No-N/a,No-N/a
+IMG_001,20261104_180503.jpg,OBJ_047,loveis коробка,FE,Orange,No-N/a,Yes,No-N/a,No-N/a
+IMG_002,20261104_180458.jpg,OBJ_047,loveis коробка,FE,Orange,Yes,No-N/a,No-N/a,No-N/a
+IMG_003,20261104_180258.jpg,OBJ_046,tashe маска,Plastic + Al (C/PE),Brown,No-N/a,No-N/a,No-N/a,No-N/a
 IMG_004,20261104_180139.jpg,OBJ_045,mixit,PET,Yellow,No-N/a,No-N/a,Yes,No-N/a
 IMG_005,20261104_180133.jpg,OBJ_045,mixit,PET,Yellow,Yes,Yes,Yes,No-N/a
 IMG_006,20261104_180031.jpg,OBJ_044,крем для рук Фаберлик,LDPE,White,Yes,No-N/a,No-N/a,No-N/a
@@ -104,3 +104,4 @@ IMG_102,20261104_155903.jpg,OBJ_001,Lipton черный чай,PET,Clear,Yes,Yes
 IMG_103,20261104_180845.jpg,OBJ_049,коробка русалочка,ALU,Purple,Yes,Yes,No-N/a,No-N/a
 IMG_104,20261104_180837.jpg,OBJ_049,коробка русалочка,ALU,Purple,Yes,No-N/a,No-N/a,No-N/a
 IMG_105,20261104_180740.jpg,OBJ_048,пластиковое открывающееся яйцо,PP,Yellow,Yes,No-N/a,No-N/a,No-N/a
+IMG_106,20261109_180900.jpg,OBJ_052,банановый сок,Green Glass (GL),Green,No-N/a,Yes,No-N/a,No-N/a
