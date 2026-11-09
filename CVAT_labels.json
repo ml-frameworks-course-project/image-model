@@ -541,7 +541,7 @@
   {
     "name": "ALU",
     "id": 8,
-    "color": "#969696",
+    "color": "#5986b3",
     "type": "rectangle",
     "attributes": [
       {
